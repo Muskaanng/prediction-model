@@ -1,8 +1,4 @@
-Here’s a **professionally written `README.md`** tailored specifically for your GitHub repository: [Muskaanng/prediction-model](https://github.com/Muskaanng/prediction-model). This version enhances clarity, structure, and appeal for recruiters, collaborators, and technical reviewers.
 
----
-
-```markdown
 # 💎 Diamond Price Prediction Model
 
 A machine learning-powered web application for predicting the price of diamonds based on key physical attributes. Built with **scikit-learn**, **XGBoost**, and **Flask**, this model demonstrates accurate price predictions and is designed for deployment-ready performance.
@@ -132,27 +128,6 @@ The model demonstrates high performance:
 * **MAE:** 842.15
 
 These metrics confirm the model’s ability to generate accurate price predictions across diverse data points.
-
----
-
-## 🤝 Contributing
-
-Contributions and suggestions are welcome!
-
-1. Fork this repository.
-2. Create your branch:
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-
-   ```bash
-   git commit -m "Describe your change"
-   ```
-4. Push and create a Pull Request.
-
----
 
 ## 📄 License
 
