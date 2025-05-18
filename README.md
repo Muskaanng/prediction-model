@@ -82,17 +82,33 @@ prediction-model/
 
 ## 🛠️ Installation
 
+Your installation section looks solid! Just a few minor tweaks to correct formatting and enhance clarity across systems:
+
+---
+
+## 🛠️ Installation
+
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/Muskaanng/prediction-model.git
    cd prediction-model
-````
+   ```
 
 2. **Create a virtual environment**
 
+   **For Linux/macOS:**
+
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+
+   **For Windows:**
+
    ```bash
    python -m venv venv
-   source venv/bin/activate  # Windows: venv\Scripts\activate
+   venv\Scripts\activate
    ```
 
 3. **Install dependencies**
@@ -101,7 +117,6 @@ prediction-model/
    pip install -r requirements.txt
    ```
 
----
 
 ## ▶️ Usage
 
